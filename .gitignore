@@ -1,0 +1,5 @@
+# development notes and local tooling, not part of the release
+.claude/
+HANDOFF.md
+*.before-*.html
+Bond Energy Data Export.md
