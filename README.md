@@ -1,6 +1,7 @@
 # Universal Chemistry Calculator
 
-**An offline calculator for DTU course 26022 Kemi (Polyteknisk grundlag).**
+**An offline calculator for DTU Kemi (Polyteknisk grundlag): course 26022, also offered as
+26020 (autumn, in English) and 26021 (spring, in Danish).**
 One HTML file covering every calculation in the course, showing the working for each
 answer rather than just the number. It runs in any browser with the network switched off.
 
@@ -13,7 +14,7 @@ double-click it.
 
 ## Why it exists
 
-The 26022 exam is multiple choice and allows offline aids. Most online chemistry
+The exam (26022, 26020 and 26021 alike; re-exams follow 26020 in autumn and 26021 in spring) is multiple choice and allows offline aids. Most online chemistry
 calculators are a separate page per formula, need an internet connection, and stop at the
 number. This one:
 
@@ -31,7 +32,7 @@ number. This one:
 
 ## What it covers
 
-97 tools in 17 tabs, following OpenStax *Chemistry 2e* and the 26022 syllabus:
+97 tools in 17 tabs, following OpenStax *Chemistry 2e* and the shared 26022/26020/26021 syllabus:
 
 | Tab | Examples |
 |---|---|
