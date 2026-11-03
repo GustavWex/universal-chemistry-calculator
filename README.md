@@ -4,7 +4,7 @@
 One HTML file covering every calculation in the course, showing the working for each
 answer rather than just the number. It runs in any browser with the network switched off.
 
-**[Open it in your browser](https://GITHUB_USER.github.io/universal-chemistry-calculator/)**, or
+**[Open it in your browser](https://gustavwex.github.io/universal-chemistry-calculator/)**, or
 download [`universal-chemistry-calculator.html`](universal-chemistry-calculator.html) and
 double-click it.
 
